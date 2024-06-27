@@ -1,0 +1,7 @@
+/* CarouselStyles.css */
+.carousel-image {
+    height: 300px;
+    /* Ajusta esta altura según tus necesidades */
+    width: 100%;
+    object-fit: cover;
+}
